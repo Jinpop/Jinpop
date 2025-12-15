@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## 프로필 꾸미기가 너무 귀찮아요!
 <!--
 **Jinpop/Jinpop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
