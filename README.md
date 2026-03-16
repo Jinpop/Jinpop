@@ -63,6 +63,21 @@
   <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
+## 🏅 Experience
+
+### Activities
+
+- **LG AIMER 8th | AI Training Program** (Jan 2026 - Feb 2026)
+- **Codeit Boost | Front-End Bootcamp (University-Partnered)** (Mar 2024 - Feb 2025)
+- **KOALA | Algorithm Competitive Programming** (Mar 2024 – Present)
+
+### Awards
+
+- **KAUPC 2025 최우수상**
+- **CODEIT 토이 프로젝트 1등**
+- **3중 멘토링 뽐내기 공모전 우수상**
+- **KAU 지식 공유 공모전 최우수상**
+
 ## 📊 GitHub Stats
 
 <p>
@@ -89,6 +104,6 @@
 
 ## 📫 Contact
 
-- Email: `qktjwl123@gmail.com`
-- Blog: `https://qktjwl123.tistory.com/`
-- Portfolio: `https://glacier-borogovia-7b5.notion.site/Park-Sungjin-2eedf3d703f280e5bb96d9f7953bd2fb?source=copy_link`
+- Email: [qktjwl123@gmail.com](mailto:qktjwl123@gmail.com)
+- Blog: [qktjwl123.tistory.com](https://qktjwl123.tistory.com/)
+- Portfolio: [Park Sungjin](https://glacier-borogovia-7b5.notion.site/Park-Sungjin-2eedf3d703f280e5bb96d9f7953bd2fb?source=copy_link)
