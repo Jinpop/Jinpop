@@ -67,6 +67,7 @@
 
 ### Activities
 
+- **한입 챌린지 8기 | Next Js Program** (Feb 2026 - Mar 2026)
 - **LG AIMER 8th | AI Training Program** (Jan 2026 - Feb 2026)
 - **Codeit Boost | Front-End Bootcamp (University-Partnered)** (Mar 2024 - Feb 2025)
 - **KOALA | Algorithm Competitive Programming** (Mar 2024 – Present)
