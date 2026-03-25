@@ -11,7 +11,7 @@
 - 이름: `박성진`
 - 한 줄 소개: `웹 풀스택과 AI의 적절한 조화`
 - 관심 분야: `LLM, AI 서비스, 자동화`
-- 현재 학습 중: `LLM, Next`
+- 현재 학습 중: `Deep Learning, Next`
 
 ## 🛠 Tech Stack
 
