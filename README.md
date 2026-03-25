@@ -82,7 +82,7 @@
 ### Certificates
 - **Topcit Level 3 (528)**
 - **Toeic 890 (2026-1)**
-- ** SW Coding Qualification, Level 1 (Highest)**
+- **SW Coding Qualification, Level 1 (Highest)**
 
 ## 📊 GitHub Stats
 
