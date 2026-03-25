@@ -79,6 +79,11 @@
 - **3중 멘토링 뽐내기 공모전 우수상**
 - **KAU 지식 공유 공모전 최우수상**
 
+### Certificates
+- **Topcit Level 3 (528)**
+- **Toeic 890 (2026-1)**
+- ** SW Coding Qualification, Level 1 (Highest)**
+
 ## 📊 GitHub Stats
 
 <p>
