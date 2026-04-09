@@ -87,12 +87,12 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jinpop&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinpop&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=jinpop&theme=tokyonight" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=jinpop&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinpop&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jinpop&theme=tokyonight" />
 </p>
 
 ## 🧠 Problem Solving
