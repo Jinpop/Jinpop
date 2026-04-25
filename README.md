@@ -37,13 +37,6 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 </p>
 
-### DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
 ### Languages
 
 <p>
@@ -80,6 +73,7 @@
 - **KAU 지식 공유 공모전 최우수상**
 
 ### Certificates
+
 - **Topcit Level 3 (528)**
 - **Toeic 890 (2026-1)**
 - **SW Coding Qualification, Level 1 (Highest)**
