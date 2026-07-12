@@ -11,7 +11,7 @@
 - 이름: `박성진`
 - 한 줄 소개: `웹 풀스택과 AI의 적절한 조화`
 - 관심 분야: `LLM, AI 서비스, 자동화`
-- 현재 학습 중: `Deep Learning, LLM Rag, FastApi, Docker`
+- 현재 학습 중: `LLM Rag, AI Agent`
 
 ## 🛠 Tech Stack
 
@@ -50,28 +50,6 @@
   <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-## 🏅 Experience
-
-### Activities
-
-- **한입 챌린지 8기 | Next Js Program** (Feb 2026 - Mar 2026)
-- **LG AIMER 8th | AI Training Program** (Jan 2026 - Feb 2026)
-- **Codeit Boost | Front-End Bootcamp (University-Partnered)** (Mar 2024 - Feb 2025)
-- **KOALA | Algorithm Competitive Programming** (Mar 2024 – Present)
-
-### Awards
-
-- **KAUPC 2025 최우수상**
-- **CODEIT 토이 프로젝트 1등**
-- **3중 멘토링 뽐내기 공모전 우수상**
-- **KAU 지식 공유 공모전 최우수상**
-
-### Certificates
-
-- **Topcit Level 3 (528)**
-- **Toeic 890 (2026-1)**
-- **SW Coding Qualification, Level 1 (Highest)**
-
 ## 📊 GitHub Stats
 
 <p>
@@ -90,14 +68,8 @@
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=qktjwl123)](https://solved.ac/qktjwl123)
 ![Baekjoon Streak](https://mazandi.herokuapp.com/api?handle=qktjwl123&theme=warm)
 
-### AtCoder
-
-[![AtCoder Rating (Algorithm)](https://atcoder-disp-graph.tra.earth/disp-rate/qktjwl123?contest-type=algo&graph-type=status)](https://atcoder.jp/users/qktjwl123)
-
-![AtCoder Rating Graph (Algorithm)](https://atcoder-disp-graph.tra.earth/disp-rate/qktjwl123?contest-type=algo&graph-type=graph)
-
 ## 📫 Contact
 
 - Email: [qktjwl123@gmail.com](mailto:qktjwl123@gmail.com)
 - Blog: [qktjwl123.tistory.com](https://qktjwl123.tistory.com/)
-- Portfolio: [Park Sungjin](https://glacier-borogovia-7b5.notion.site/Park-Sungjin-2eedf3d703f280e5bb96d9f7953bd2fb?source=copy_link)
+- Portfolio: [Park Sungjin](https://glacier-borogovia-7b5.notion.site/373df3d703f280c78752d246641fc9d2?pvs=74)
