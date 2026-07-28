@@ -11,44 +11,7 @@
 - 이름: `박성진`
 - 한 줄 소개: `웹 풀스택과 AI의 적절한 조화`
 - 관심 분야: `LLM, AI 서비스, 자동화`
-- 현재 학습 중: `LLM Rag, AI Agent`
-
-## 🛠 Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-</p>
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" />
-</p>
+- 현재 학습 중: `LLM Rag, AI Agent, ML`
 
 ## 📊 GitHub Stats
 
@@ -72,4 +35,4 @@
 
 - Email: [qktjwl123@gmail.com](mailto:qktjwl123@gmail.com)
 - Blog: [qktjwl123.tistory.com](https://qktjwl123.tistory.com/)
-- Portfolio: [Park Sungjin](https://glacier-borogovia-7b5.notion.site/373df3d703f280c78752d246641fc9d2?pvs=74)
+- Portfolio: [Park Sungjin](https://jinpop.github.io/) 
